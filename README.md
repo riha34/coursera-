@@ -1,2 +1,2 @@
-# coursera-
+# coursera
 coursera learning materials
